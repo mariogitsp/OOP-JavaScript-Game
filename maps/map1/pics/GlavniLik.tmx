@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="8" height="2" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="66">
+ <tileset firstgid="1" source="GlavniLik.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="8" height="2">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="1" gid="1" x="0" y="0" width="32" height="32"/>
+  <object id="3" gid="2" x="32" y="0" width="32" height="32"/>
+  <object id="4" gid="3" x="64" y="0" width="32" height="32"/>
+  <object id="5" gid="4" x="96" y="0" width="32" height="32"/>
+  <object id="6" gid="5" x="128" y="0" width="32" height="32"/>
+  <object id="7" gid="6" x="160" y="0" width="32" height="32"/>
+  <object id="8" gid="7" x="192" y="0" width="32" height="32"/>
+  <object id="9" gid="8" x="224" y="0" width="32" height="32"/>
+  <object id="58" gid="9" x="0" y="32" width="32" height="32"/>
+  <object id="59" gid="10" x="32" y="32" width="32" height="32"/>
+  <object id="60" gid="11" x="64" y="32" width="32" height="32"/>
+  <object id="61" gid="12" x="96" y="32" width="32" height="32"/>
+  <object id="62" gid="13" x="128" y="32" width="32" height="32"/>
+  <object id="63" gid="14" x="160" y="32" width="32" height="32"/>
+  <object id="64" gid="15" x="192" y="32" width="32" height="32"/>
+  <object id="65" gid="16" x="224" y="32" width="32" height="32"/>
+ </objectgroup>
+</map>
